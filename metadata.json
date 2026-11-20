@@ -1,0 +1,6 @@
+{
+  "name": "FINDORA",
+  "description": "Global lost-and-found platform connecting people who lost belongings with finders through location search, private messaging, ownership verification, and trust-and-safety moderation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FINDORA</string>
+    <string name="app_tagline">Lost Something? Find It Anywhere.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_messages">Messages</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="action_report_lost">Report Lost</string>
+    <string name="action_report_found">Report Found</string>
+    <string name="privacy_notice_location">Only approximate zones are shown publicly to protect your safety.</string>
+    <string name="privacy_notice_hidden">Hidden identifying details are encrypted locally and never shown publicly.</string>
+</resources>
